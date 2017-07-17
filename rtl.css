@@ -1,0 +1,8 @@
+/**
+* Theme Name: Matuto
+*/
+
+body {
+    direction: rtl;
+    unicode-bidi: embed;
+}
