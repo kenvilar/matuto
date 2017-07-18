@@ -3,7 +3,7 @@
 /**
  * The theme header
  *
- * @package WordPress
+ * @package Matuto
  */
 ?><!DOCTYPE html>
 <html <?php language_attributes(); ?> class="no-js no-svg">
